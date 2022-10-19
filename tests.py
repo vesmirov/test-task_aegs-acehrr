@@ -23,4 +23,3 @@ class TestNodes(unittest.TestCase):
                     get_root_value(tree),
                     case['root_node_value'],
                 )
-

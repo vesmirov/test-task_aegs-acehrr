@@ -67,4 +67,3 @@ cases = (
         'root_node_value': 0,
     },
 )
-
